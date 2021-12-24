@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("hello hotfix");
         System.out.println("merge master");
         System.out.println("merge hot-fix");
+        System.out.println("Modified on GitHub 23:15");
     }
 }
